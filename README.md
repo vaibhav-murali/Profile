@@ -1,30 +1,3 @@
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>About-Me</title>
-<meta name="generator" content="Jekyll v3.7.4" />
-<meta property="og:title" content="About-Me" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://vaibhavmurali.github.io/About-Me/" />
-<meta property="og:url" content="https://vaibhavmurali.github.io/About-Me/" />
-<meta property="og:site_name" content="About-Me" />
-<script type="application/ld+json">
-{"headline":"About-Me","@type":"WebSite","url":"https://vaibhavmurali.github.io/About-Me/","name":"About-Me","@context":"http://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/About-Me/assets/css/style.css?v=2bcc4d1dcffdc8e89119612dc33d70984393e282">
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://vaibhavmurali.github.io/About-Me/">About-Me</a></h1>
-      
-
-      
 <html>
   <head>
   <meta name="generator" content="HTML Tidy for Linux/x86 (vers 11 February 2007), see www.w3.org" />
